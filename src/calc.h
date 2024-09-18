@@ -3,3 +3,5 @@
 
 
 #endif // CALC_H
+
+double suma(double a, double b);
